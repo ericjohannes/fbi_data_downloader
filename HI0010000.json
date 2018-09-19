@@ -1,0 +1,1593 @@
+{
+  "results" : [ {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "aggravated-assault",
+    "cleared" : 76,
+    "actual" : 103
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "arson",
+    "cleared" : 4,
+    "actual" : 26
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "burglary",
+    "cleared" : 180,
+    "actual" : 1116
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "homicide",
+    "cleared" : 7,
+    "actual" : 6
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "larceny",
+    "cleared" : 748,
+    "actual" : 2945
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 70,
+    "actual" : 228
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "property-crime",
+    "cleared" : 998,
+    "actual" : 4289
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "rape-legacy",
+    "cleared" : 10,
+    "actual" : 16
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "robbery",
+    "cleared" : 19,
+    "actual" : 38
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1995,
+    "offense" : "violent-crime",
+    "cleared" : 112,
+    "actual" : 163
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "aggravated-assault",
+    "cleared" : 68,
+    "actual" : 93
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "arson",
+    "cleared" : 5,
+    "actual" : 20
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "burglary",
+    "cleared" : 219,
+    "actual" : 1064
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "homicide",
+    "cleared" : 5,
+    "actual" : 6
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "larceny",
+    "cleared" : 689,
+    "actual" : 2571
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 63,
+    "actual" : 184
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "property-crime",
+    "cleared" : 971,
+    "actual" : 3819
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "rape-legacy",
+    "cleared" : 20,
+    "actual" : 28
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "robbery",
+    "cleared" : 16,
+    "actual" : 31
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1996,
+    "offense" : "violent-crime",
+    "cleared" : 109,
+    "actual" : 158
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "aggravated-assault",
+    "cleared" : 147,
+    "actual" : 161
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "arson",
+    "cleared" : 8,
+    "actual" : 36
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "burglary",
+    "cleared" : 314,
+    "actual" : 1651
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "homicide",
+    "cleared" : 7,
+    "actual" : 9
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "larceny",
+    "cleared" : 1446,
+    "actual" : 5029
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 108,
+    "actual" : 353
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "property-crime",
+    "cleared" : 1868,
+    "actual" : 7033
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "rape-legacy",
+    "cleared" : 22,
+    "actual" : 40
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "robbery",
+    "cleared" : 42,
+    "actual" : 68
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1997,
+    "offense" : "violent-crime",
+    "cleared" : 218,
+    "actual" : 278
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "aggravated-assault",
+    "cleared" : 124,
+    "actual" : 134
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "arson",
+    "cleared" : 12,
+    "actual" : 47
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "burglary",
+    "cleared" : 536,
+    "actual" : 1660
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "homicide",
+    "cleared" : 4,
+    "actual" : 3
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "larceny",
+    "cleared" : 1386,
+    "actual" : 4474
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 130,
+    "actual" : 368
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "property-crime",
+    "cleared" : 2052,
+    "actual" : 6502
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "rape-legacy",
+    "cleared" : 44,
+    "actual" : 40
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "robbery",
+    "cleared" : 45,
+    "actual" : 73
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1998,
+    "offense" : "violent-crime",
+    "cleared" : 217,
+    "actual" : 250
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 149
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "arson",
+    "cleared" : 10,
+    "actual" : 42
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1400
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3870
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 288
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5558
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 57
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 41
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 1999,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 252
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 126
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "arson",
+    "cleared" : 8,
+    "actual" : 45
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1449
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 4
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4355
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 384
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 6188
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 46
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 54
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2000,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 230
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 138
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "arson",
+    "cleared" : 4,
+    "actual" : 44
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1538
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 8
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4677
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 493
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 6708
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 60
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 63
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2001,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 269
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 133
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "arson",
+    "cleared" : 6,
+    "actual" : 49
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1539
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4663
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 513
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 6715
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 30
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 48
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2002,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 216
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 164
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "arson",
+    "cleared" : 2,
+    "actual" : 48
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1437
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 6
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4924
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 477
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 6838
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 40
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 77
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2003,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 287
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 148
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "arson",
+    "cleared" : 2,
+    "actual" : 43
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1162
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 3
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4335
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 432
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5929
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 73
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 53
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2004,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 277
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 355
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "arson",
+    "cleared" : 5,
+    "actual" : 32
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1837
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 5211
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 759
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 7807
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 16
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 93
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2005,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 469
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 276
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "arson",
+    "cleared" : 12,
+    "actual" : 50
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1426
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 3
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 4293
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 608
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 6327
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 57
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 88
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2006,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 424
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 266
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "arson",
+    "cleared" : 16,
+    "actual" : 79
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1381
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3996
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 542
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5919
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 74
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 102
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2007,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 447
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 286
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "arson",
+    "cleared" : 12,
+    "actual" : 67
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1208
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 4
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3796
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 490
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5494
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 71
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 73
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2008,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 434
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 330
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "arson",
+    "cleared" : 6,
+    "actual" : 28
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1415
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3855
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 473
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5743
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 62
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 67
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2009,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 464
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 347
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "arson",
+    "cleared" : 3,
+    "actual" : 21
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 1141
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 3
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3627
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 487
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 5255
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 84
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 79
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2010,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 513
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "aggravated-assault",
+    "cleared" : 0,
+    "actual" : 363
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "arson",
+    "cleared" : 6,
+    "actual" : 39
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "burglary",
+    "cleared" : 0,
+    "actual" : 946
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "homicide",
+    "cleared" : 0,
+    "actual" : 2
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "larceny",
+    "cleared" : 0,
+    "actual" : 3360
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 0,
+    "actual" : 404
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "property-crime",
+    "cleared" : 0,
+    "actual" : 4710
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 61
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "robbery",
+    "cleared" : 0,
+    "actual" : 62
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2011,
+    "offense" : "violent-crime",
+    "cleared" : 0,
+    "actual" : 488
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "aggravated-assault",
+    "cleared" : 191,
+    "actual" : 301
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "arson",
+    "cleared" : 5,
+    "actual" : 19
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "burglary",
+    "cleared" : 134,
+    "actual" : 1184
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "homicide",
+    "cleared" : 5,
+    "actual" : 5
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "larceny",
+    "cleared" : 976,
+    "actual" : 3751
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 85,
+    "actual" : 443
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "property-crime",
+    "cleared" : 1195,
+    "actual" : 5378
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "rape-legacy",
+    "cleared" : 8,
+    "actual" : 36
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "robbery",
+    "cleared" : 40,
+    "actual" : 74
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2012,
+    "offense" : "violent-crime",
+    "cleared" : 244,
+    "actual" : 416
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "aggravated-assault",
+    "cleared" : 261,
+    "actual" : 394
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "arson",
+    "cleared" : 4,
+    "actual" : 32
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "burglary",
+    "cleared" : 116,
+    "actual" : 1138
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "homicide",
+    "cleared" : 7,
+    "actual" : 9
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "larceny",
+    "cleared" : 924,
+    "actual" : 3727
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 81,
+    "actual" : 421
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "property-crime",
+    "cleared" : 1121,
+    "actual" : 5286
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "rape",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "rape-legacy",
+    "cleared" : 11,
+    "actual" : 50
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "robbery",
+    "cleared" : 46,
+    "actual" : 89
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2013,
+    "offense" : "violent-crime",
+    "cleared" : 325,
+    "actual" : 542
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "aggravated-assault",
+    "cleared" : 205,
+    "actual" : 273
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "arson",
+    "cleared" : 7,
+    "actual" : 18
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "burglary",
+    "cleared" : 138,
+    "actual" : 1198
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "homicide",
+    "cleared" : 3,
+    "actual" : 3
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "larceny",
+    "cleared" : 1140,
+    "actual" : 4795
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 167,
+    "actual" : 732
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "property-crime",
+    "cleared" : 1445,
+    "actual" : 6725
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "rape",
+    "cleared" : 55,
+    "actual" : 103
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "robbery",
+    "cleared" : 32,
+    "actual" : 78
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2014,
+    "offense" : "violent-crime",
+    "cleared" : 295,
+    "actual" : 457
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "aggravated-assault",
+    "cleared" : 157,
+    "actual" : 244
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "arson",
+    "cleared" : 10,
+    "actual" : 31
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "burglary",
+    "cleared" : 152,
+    "actual" : 1061
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "homicide",
+    "cleared" : 6,
+    "actual" : 8
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "larceny",
+    "cleared" : 1017,
+    "actual" : 4725
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 237,
+    "actual" : 909
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "property-crime",
+    "cleared" : 1406,
+    "actual" : 6695
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "rape",
+    "cleared" : 56,
+    "actual" : 95
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "robbery",
+    "cleared" : 28,
+    "actual" : 54
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2015,
+    "offense" : "violent-crime",
+    "cleared" : 247,
+    "actual" : 401
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "aggravated-assault",
+    "cleared" : 192,
+    "actual" : 274
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "arson",
+    "cleared" : 12,
+    "actual" : 41
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "burglary",
+    "cleared" : 128,
+    "actual" : 823
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "homicide",
+    "cleared" : 8,
+    "actual" : 9
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "human-trafficing",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "larceny",
+    "cleared" : 871,
+    "actual" : 3580
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "motor-vehicle-theft",
+    "cleared" : 167,
+    "actual" : 525
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "property-crime",
+    "cleared" : 1166,
+    "actual" : 4928
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "rape",
+    "cleared" : 48,
+    "actual" : 115
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "rape-legacy",
+    "cleared" : 0,
+    "actual" : 0
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "robbery",
+    "cleared" : 30,
+    "actual" : 69
+  }, {
+    "ori" : "HI0010000                ",
+    "data_year" : 2016,
+    "offense" : "violent-crime",
+    "cleared" : 278,
+    "actual" : 467
+  } ],
+  "pagination" : {
+    "count" : 264,
+    "page" : 0,
+    "pages" : 1,
+    "per_page" : 0
+  }
+}
